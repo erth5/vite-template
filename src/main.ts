@@ -1,4 +1,4 @@
-import './style.css'
+import './style.sass'
 
 const app = document.querySelector<HTMLDivElement>('#app')!
 
